@@ -1,0 +1,45 @@
+{
+  "node": {
+    "00d23238cb95aad3cc70147202b6301f5341e98ebe": {
+      "workers": {
+        "app/admin/products/[id]/page": {
+          "moduleId": 64577,
+          "async": false
+        }
+      },
+      "exportedName": "logout",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "6023add4db39e40b73cd29a054be9bae6121651124": {
+      "workers": {
+        "app/admin/products/[id]/page": {
+          "moduleId": 64577,
+          "async": false
+        }
+      },
+      "exportedName": "register",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "60a224972c33b91704aaac7b089cc5794cd905c0fb": {
+      "workers": {
+        "app/admin/products/[id]/page": {
+          "moduleId": 64577,
+          "async": false
+        }
+      },
+      "exportedName": "login",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "600c53ffad1f08e6186d8dca89020e1a0addc1cd80": {
+      "workers": {
+        "app/admin/products/[id]/page": {
+          "moduleId": 64577,
+          "async": false
+        }
+      },
+      "exportedName": "saveProduct",
+      "filename": "src/app/admin/actions.ts"
+    }
+  },
+  "edge": {}
+}

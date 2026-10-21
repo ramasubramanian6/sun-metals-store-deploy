@@ -1,0 +1,3 @@
+module.exports=[74167,a=>{"use strict";var b=a.i(87924),c=a.i(72131);a.s(["default",0,function({error:a,reset:d}){return(0,c.useEffect)(()=>console.error(a),[a]),(0,b.jsxs)("div",{className:"animate-fade-up rounded-lg border border-danger/30 bg-white p-8",children:[(0,b.jsx)("h1",{className:"font-display text-2xl font-semibold",children:"This admin page failed to load"}),(0,b.jsxs)("p",{className:"mt-2 text-sm text-muted",children:[a.digest?`Error reference ${a.digest}. `:"","Check the server logs for details."]}),(0,b.jsx)("button",{onClick:d,className:"btn-dark press mt-4",children:"Retry"})]})}])}];
+
+//# sourceMappingURL=src_app_admin_error_tsx_1frhadi_nqfit._.js.map

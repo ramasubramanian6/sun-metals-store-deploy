@@ -1,0 +1,13 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/(store)/cart/page": [
+      "static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2",
+      "static/media/49bcce62f8e09af8-s.p.1m3e1vmer71ef.woff2",
+      "static/media/c3191a2e06136a6d-s.p.2eby0yrg01v4v.woff2",
+      "static/media/b8256b1b99fdd790-s.p.1m13j5pjyugba.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

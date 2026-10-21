@@ -1,0 +1,12 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/webhooks/razorpay/route.js")
+R.c("server/chunks/[root-of-the-server]__0w0qkpxghlin0._.js")
+R.c("server/chunks/_14ksk7-4i4jcl._.js")
+R.c("server/chunks/node_modules_next_dist_0asya_d53xspt._.js")
+R.c("server/chunks/node_modules_next_1lo724y0ayaf6._.js")
+R.c("server/chunks/node_modules_next_dist_1ixxkvkbot_zu._.js")
+R.c("server/chunks/[root-of-the-server]__12uj0887q1ayr._.js")
+R.c("server/chunks/_1qnrzcdokqp1d._.js")
+R.c("server/chunks/node_modules_next_dist_10oni030-l6bx._.js")
+R.c("server/chunks/_next-internal_server_app_api_webhooks_razorpay_route_actions_1xjd__3d_peqm.js")
+R.m(85143)
+module.exports=R.m(85143).exports

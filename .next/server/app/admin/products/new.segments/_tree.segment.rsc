@@ -1,0 +1,10 @@
+:HL["https://sunmetals-store.web.app/_next/static/chunks/296-vy_kgwsll.css","style"]
+:HL["https://sunmetals-store.web.app/_next/static/media/49bcce62f8e09af8-s.p.1m3e1vmer71ef.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://sunmetals-store.web.app/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://sunmetals-store.web.app/_next/static/media/b8256b1b99fdd790-s.p.1m13j5pjyugba.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://sunmetals-store.web.app/_next/static/media/c3191a2e06136a6d-s.p.2eby0yrg01v4v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":162}]]
+3:[["children",{"s":"new","h":102,"c":"$Q4"}]]
+2:[["children",{"s":"products","h":110,"c":"$Q3"}]]
+1:[["children",{"s":"admin","h":8302,"c":"$Q2"}]]
+0:{"b":"2LSBFUcJvaSui68PB-Usw","t":{"t":{"s":"","h":8282,"c":"$Q1"}}}

@@ -1,0 +1,11 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/admin/upload/route.js")
+R.c("server/chunks/[root-of-the-server]__04hjcyf7j07dv._.js")
+R.c("server/chunks/node_modules_next_dist_1l2dhw9vnb27k._.js")
+R.c("server/chunks/_122285y4tfrew._.js")
+R.c("server/chunks/node_modules_next_dist_1mkpdo_ntnfok._.js")
+R.c("server/chunks/[root-of-the-server]__12uj0887q1ayr._.js")
+R.c("server/chunks/_1hqubx55lzf-j._.js")
+R.c("server/chunks/node_modules_next_dist_1ixxkvkbot_zu._.js")
+R.c("server/chunks/_next-internal_server_app_api_admin_upload_route_actions_0gtguvxtqr5__.js")
+R.m(87672)
+module.exports=R.m(87672).exports

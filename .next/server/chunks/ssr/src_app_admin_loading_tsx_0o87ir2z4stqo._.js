@@ -1,0 +1,3 @@
+module.exports=[19225,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function(){return(0,b.jsxs)("div",{className:"space-y-4","aria-busy":"true","aria-label":"Loading",children:[(0,b.jsx)("div",{className:"skeleton h-9 w-56 rounded"}),(0,b.jsx)("div",{className:"grid grid-cols-2 gap-3 lg:grid-cols-4",children:Array.from({length:4},(a,c)=>(0,b.jsx)("div",{className:"skeleton h-24 rounded-lg"},c))}),(0,b.jsx)("div",{className:"skeleton h-72 rounded-lg"})]})}])},96424,function(a){a.n(a.i(19225))}];
+
+//# sourceMappingURL=src_app_admin_loading_tsx_0o87ir2z4stqo._.js.map

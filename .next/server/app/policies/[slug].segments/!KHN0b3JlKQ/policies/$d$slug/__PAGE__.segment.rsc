@@ -1,0 +1,31 @@
+3:"$Sreact.fragment"
+4:"https://sunmetals-store.web.app/_next/static/chunks/08dfwi9mnvibt.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+d:"$Sreact.suspense"
+f:I[97367,["$4"],"OutletBoundary"]
+13:"ViewportBoundary"
+14:I[97367,["$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$4"],"$15"]
+8:X
+8:C
+9:X
+9:300
+9:300
+9:C
+12:X
+12:C
+c:[["children",{"s":"__PAGE__","h":162,"d":{"r":["$","$3","c",{"children":[["$","article",null,{"className":"container-x max-w-3xl py-10","children":[["$","$d",null,{"fallback":["$","div",null,{"className":"h-64"}],"children":"$Le"}],["$","p",null,{"className":"mt-8 text-sm text-muted","children":["Questions? Contact ","sunmetalsstore@gmail.com"," · ","+91 97903 54931"]}]]}],null,["$","$Lf",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":"$12","s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":null,"s":[]},"h":98,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"policies","h":66,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(store)","h":34,"c":"$Q2"}]]
+19:X
+19:C
+1c:X
+1c:C
+0:{"t":{"t":{"s":"","h":82,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#16181d"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L17"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":"$19","s":"$9"}},"a":"$@1a","u":"$@1b","b":"2LSBFUcJvaSui68PB-Usw","r":"$1c","f":true}
+1b:true
+1a:null
+b:"$undefined"
+7:"$undefined"

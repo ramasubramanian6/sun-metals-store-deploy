@@ -1,0 +1,32 @@
+3:"$Sreact.fragment"
+4:"https://sunmetals-store.web.app/_next/static/chunks/08dfwi9mnvibt.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:"$Sreact.suspense"
+d:I[97367,["$4"],"OutletBoundary"]
+11:"ViewportBoundary"
+12:I[97367,["$4"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$4"],"$13"]
+15:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+9:300
+9:300
+9:C
+10:X
+10:C
+a:[["children",{"s":"__PAGE__","h":162,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"container-x py-6","children":[["$","h1",null,{"className":"mb-4 font-display text-3xl font-semibold","children":"Shop all products"}],["$","$b",null,{"fallback":["$","div",null,{"className":"grid gap-6 md:grid-cols-[220px_1fr]","children":[["$","div",null,{"className":"hidden h-96 skeleton rounded-xl md:block"}],["$","div",null,{"className":"grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4","children":[["$","div","0",{"className":"aspect-[3/4] skeleton rounded-xl"}],["$","div","1",{"className":"aspect-[3/4] skeleton rounded-xl"}],["$","div","2",{"className":"aspect-[3/4] skeleton rounded-xl"}],["$","div","3",{"className":"aspect-[3/4] skeleton rounded-xl"}],["$","div","4",{"className":"aspect-[3/4] skeleton rounded-xl"}],["$","div","5",{"className":"aspect-[3/4] skeleton rounded-xl"}],["$","div","6",{"className":"aspect-[3/4] skeleton rounded-xl"}],["$","div","7",{"className":"aspect-[3/4] skeleton rounded-xl"}]]}]]}],"children":"$Lc"}]]}],[["$","script","script-0",{"src":"https://sunmetals-store.web.app/_next/static/chunks/02e8l0-4bjb0w.js","async":true}]],["$","$Ld",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":"$10","s":"$9"}}]]
+2:[["children",{"s":"search","h":66,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(store)","h":34,"c":"$Q2"}]]
+17:X
+17:C
+1a:X
+1a:C
+0:{"t":{"t":{"s":"","h":82,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#16181d"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shop all products | Sun Metals Store"}],["$","meta","1",{"name":"description","content":"Shop brass, silver, aluminium and stainless steel vessels, kitchen and home appliances, TVs and more from Sun Metals Store, Cheyyur. Easy EMI, custom laser engraving and B2B supply."}],["$","meta","2",{"property":"og:title","content":"Shop all products | Sun Metals Store"}],["$","meta","3",{"property":"og:description","content":"Shop brass, silver, aluminium and stainless steel vessels, kitchen and home appliances, TVs and more from Sun Metals Store, Cheyyur. Easy EMI, custom laser engraving and B2B supply."}],["$","meta","4",{"property":"og:site_name","content":"Sun Metals Store"}],["$","meta","5",{"property":"og:locale","content":"en_IN"}],["$","meta","6",{"property":"og:image","content":"https://sunmetals-store.onrender.com/logo.png"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Shop all products | Sun Metals Store"}],["$","meta","10",{"name":"twitter:description","content":"Shop brass, silver, aluminium and stainless steel vessels, kitchen and home appliances, TVs and more from Sun Metals Store, Cheyyur. Easy EMI, custom laser engraving and B2B supply."}],["$","meta","11",{"name":"twitter:image","content":"https://sunmetals-store.onrender.com/logo.png"}],["$","link","12",{"rel":"icon","href":"/icon.png?icon.2kur7cjt4ormw.png","sizes":"256x256","type":"image/png"}],["$","link","13",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1l3pmusmm6-1r.png","sizes":"180x180","type":"image/png"}],["$","$L15","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":"$17","s":"$9"}},"a":"$@18","u":"$@19","b":"2LSBFUcJvaSui68PB-Usw","r":"$1a"}
+e:null
+19:true
+18:null
+7:"$undefined"
+16:"$undefined"

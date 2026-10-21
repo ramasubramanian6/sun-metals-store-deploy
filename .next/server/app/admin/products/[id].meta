@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "headers": {
+    "link": "<https://sunmetals-store.web.app/_next/static/media/49bcce62f8e09af8-s.p.1m3e1vmer71ef.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", <https://sunmetals-store.web.app/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", <https://sunmetals-store.web.app/_next/static/media/b8256b1b99fdd790-s.p.1m13j5pjyugba.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", <https://sunmetals-store.web.app/_next/static/media/c3191a2e06136a6d-s.p.2eby0yrg01v4v.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", <https://sunmetals-store.web.app/_next/static/chunks/296-vy_kgwsll.css>; rel=preload; as=\"style\"",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/products/layout,_N_T_/admin/products/[id]/layout,_N_T_/admin/products/[id]/page"
+  },
+  "postponed": "1420:6[\"id\"][0,{\"nextSegmentId\":0,\"rootFormatContext\":{\"insertionMode\":0,\"selectedValue\":null,\"tagScope\":0,\"viewTransition\":null},\"progressiveChunkSize\":12800,\"resumableState\":{\"idPrefix\":\"\",\"nextFormID\":0,\"streamingFormat\":0,\"bootstrapScriptContent\":\"(globalThis[\\\"TURBOPACK\\\"] || (globalThis[\\\"TURBOPACK\\\"] = [])).push({\\\"otherChunks\\\":[\\\"static/chunks/3kgidlob4o0ld.js\\\",\\\"static/chunks/2hoi73vy1wqpo.js\\\",\\\"static/chunks/10lnhig7s4wv1.js\\\",\\\"static/chunks/20wotb-xv6pi5.js\\\",\\\"static/chunks/1lpu9kuombjh6.js\\\"],\\\"runtimeModuleIds\\\":[94553]});\",\"bootstrapScripts\":[{\"src\":\"https://sunmetals-store.web.app/_next/static/chunks/3kgidlob4o0ld.js\"}],\"instructions\":0,\"hasBody\":false,\"hasHtml\":false,\"unknownResources\":{\"font\":{\"https://sunmetals-store.web.app/_next/static/media/49bcce62f8e09af8-s.p.1m3e1vmer71ef.woff2\":[],\"https://sunmetals-store.web.app/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2\":[],\"https://sunmetals-store.web.app/_next/static/media/b8256b1b99fdd790-s.p.1m13j5pjyugba.woff2\":[],\"https://sunmetals-store.web.app/_next/static/media/c3191a2e06136a6d-s.p.2eby0yrg01v4v.woff2\":[]}},\"dnsResources\":{},\"connectResources\":{\"default\":{},\"anonymous\":{},\"credentials\":{}},\"imageResources\":{},\"styleResources\":{\"https://sunmetals-store.web.app/_next/static/chunks/296-vy_kgwsll.css\":[]},\"scriptResources\":{},\"moduleUnknownResources\":{},\"moduleScriptResources\":{}},\"replayNodes\":[],\"replaySlots\":-1}]null",
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/admin/products/$d$id/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 96,
+                "slots": {
+                  "children": {
+                    "hints": 160,
+                    "slots": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/776d341df9146c6116012b8ff2e1025af42897ddd696eec2d7006a36313a4ecc/$/admin/products/[id]",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/admin/products/[id]/page"
+    },
+    "isFallback": true
+  }
+}

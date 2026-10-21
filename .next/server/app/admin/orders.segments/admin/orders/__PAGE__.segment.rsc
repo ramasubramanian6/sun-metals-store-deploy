@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:"https://sunmetals-store.web.app/_next/static/chunks/08dfwi9mnvibt.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:I[37496,["$2"],"HydrationMarker"]
+a:"LoadingBoundaryProvider"
+b:I[39756,["$2"],"$a"]
+14:I[97367,["$2"],"OutletBoundary"]
+15:"$Sreact.suspense"
+19:"ViewportBoundary"
+1a:I[97367,["$2"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$2"],"$1b"]
+1d:I[27201,["$2"],"IconMark"]
+:HL["https://sunmetals-store.web.app/_next/static/chunks/296-vy_kgwsll.css","style"]
+7:X
+7:C
+8:X
+8:300
+8:C
+e:X
+e:C
+11:X
+11:C
+18:X
+18:C
+12:[["children",{"s":"__PAGE__","h":162,"d":{"r":["$","$1","c",{"children":["$L13",null,["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":"$18","s":"$8"}}]]
+f:[["children",{"s":"orders","h":102,"d":{"r":["$","$Lb",null,{"loading":[["$","div","l",{"className":"space-y-4","aria-busy":"true","aria-label":"Loading","children":[["$","div",null,{"className":"skeleton h-9 w-56 rounded"}],["$","div",null,{"className":"grid grid-cols-2 gap-3 lg:grid-cols-4","children":[["$","div","0",{"className":"skeleton h-24 rounded-lg"}],["$","div","1",{"className":"skeleton h-24 rounded-lg"}],["$","div","2",{"className":"skeleton h-24 rounded-lg"}],["$","div","3",{"className":"skeleton h-24 rounded-lg"}]]}],["$","div",null,{"className":"skeleton h-72 rounded-lg"}]]}],[],null],"children":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}]}],"p":"$@10","v":"$11","s":"$8"},"c":"$Q12"}]]
+9:[["children",{"s":"admin","h":8302,"d":{"r":["$","$Lb",null,{"loading":[["$","div","l",{"className":"space-y-4","aria-busy":"true","aria-label":"Loading","children":[["$","div",null,{"className":"skeleton h-9 w-56 rounded"}],["$","div",null,{"className":"grid grid-cols-2 gap-3 lg:grid-cols-4","children":[["$","div","0",{"className":"skeleton h-24 rounded-lg"}],["$","div","1",{"className":"skeleton h-24 rounded-lg"}],["$","div","2",{"className":"skeleton h-24 rounded-lg"}],["$","div","3",{"className":"skeleton h-24 rounded-lg"}]]}],["$","div",null,{"className":"skeleton h-72 rounded-lg"}]]}],[],null],"children":["$","$1","c",{"children":[[["$","script","script-0",{"src":"https://sunmetals-store.web.app/_next/static/chunks/2dhht6hh0aac5.js","async":true}],["$","script","script-1",{"src":"https://sunmetals-store.web.app/_next/static/chunks/0f4bdp7v788ni.js","async":true}]],"$Lc"]}]}],"p":"$@d","v":"$e","s":"$8"},"c":"$Qf"}]]
+1f:X
+1f:C
+22:X
+22:C
+0:{"t":{"t":{"s":"","h":8282,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"https://sunmetals-store.web.app/_next/static/chunks/296-vy_kgwsll.css","precedence":"next"}],["$","script","script-0",{"src":"https://sunmetals-store.web.app/_next/static/chunks/08dfwi9mnvibt.js","async":true}]],["$","html",null,{"lang":"en-IN","className":"LINzvG_variable _7PVF7a_variable h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L5",null,{}]]}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#16181d"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Admin | Sun Metals Store"}],["$","meta","1",{"name":"description","content":"Shop brass, silver, aluminium and stainless steel vessels, kitchen and home appliances, TVs and more from Sun Metals Store, Cheyyur. Easy EMI, custom laser engraving and B2B supply."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Admin | Sun Metals Store"}],["$","meta","4",{"property":"og:description","content":"Shop brass, silver, aluminium and stainless steel vessels, kitchen and home appliances, TVs and more from Sun Metals Store, Cheyyur. Easy EMI, custom laser engraving and B2B supply."}],["$","meta","5",{"property":"og:site_name","content":"Sun Metals Store"}],["$","meta","6",{"property":"og:locale","content":"en_IN"}],["$","meta","7",{"property":"og:image","content":"https://sunmetals-store.onrender.com/logo.png"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Admin | Sun Metals Store"}],["$","meta","11",{"name":"twitter:description","content":"Shop brass, silver, aluminium and stainless steel vessels, kitchen and home appliances, TVs and more from Sun Metals Store, Cheyyur. Easy EMI, custom laser engraving and B2B supply."}],["$","meta","12",{"name":"twitter:image","content":"https://sunmetals-store.onrender.com/logo.png"}],["$","link","13",{"rel":"icon","href":"/icon.png?icon.2kur7cjt4ormw.png","sizes":"256x256","type":"image/png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1l3pmusmm6-1r.png","sizes":"180x180","type":"image/png"}],["$","$L1d","15",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":"$1f","s":"$8"}},"a":"$@20","u":"$@21","b":"2LSBFUcJvaSui68PB-Usw","r":"$22"}
+16:null
+21:true
+20:null
+10:"$undefined"
+6:"$undefined"
+1e:"$undefined"

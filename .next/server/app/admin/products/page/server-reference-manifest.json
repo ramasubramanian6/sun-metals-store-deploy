@@ -1,0 +1,55 @@
+{
+  "node": {
+    "00d23238cb95aad3cc70147202b6301f5341e98ebe": {
+      "workers": {
+        "app/admin/products/page": {
+          "moduleId": 10036,
+          "async": false
+        }
+      },
+      "exportedName": "logout",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "6023add4db39e40b73cd29a054be9bae6121651124": {
+      "workers": {
+        "app/admin/products/page": {
+          "moduleId": 10036,
+          "async": false
+        }
+      },
+      "exportedName": "register",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "60a224972c33b91704aaac7b089cc5794cd905c0fb": {
+      "workers": {
+        "app/admin/products/page": {
+          "moduleId": 10036,
+          "async": false
+        }
+      },
+      "exportedName": "login",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "405a0b5196dfd768971be8e6233358c56fa5238382": {
+      "workers": {
+        "app/admin/products/page": {
+          "moduleId": 10036,
+          "async": false
+        }
+      },
+      "exportedName": "deleteProduct",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "60e148410d78d80866f8ac3e894394a2977a20c454": {
+      "workers": {
+        "app/admin/products/page": {
+          "moduleId": 10036,
+          "async": false
+        }
+      },
+      "exportedName": "quickUpdateProduct",
+      "filename": "src/app/admin/actions.ts"
+    }
+  },
+  "edge": {}
+}
